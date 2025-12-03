@@ -21,10 +21,8 @@ The **AI Professor** is an autonomous agent that acts as a strict academic tutor
 1.  Clone the repository.</br>
 2.  Install dependencies:</br>
     ```bash</br>
-    pip install -r requirements.txt </br>
-    ```</br>
+    pip install -r requirements.txt
 3.  Run the agent:</br>
     ```bash</br>
-    python main.py </br>
-    ```</br>
+    python main.py 
 4.  Enter your Google API Key when prompted. </br>
