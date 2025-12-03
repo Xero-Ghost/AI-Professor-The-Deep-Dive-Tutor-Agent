@@ -1,0 +1,5 @@
+ddgs
+langchain-google-genai
+langchain
+beautifulsoup4
+requests
